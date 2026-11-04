@@ -12,6 +12,7 @@
 - Si hay varias formas de hacer algo, recomiéndame una y dime brevemente por qué.
 - Cuando cometa un error, explícame la causa, no solo la solución.
 - Dime cómo probar lo que hemos hecho (por ejemplo, con `curl` o el navegador).
+- Antes de ejecutar cualquier comando en la terminal, explícame qué hace y para qué lo vas a usar.
 - El código sigue en inglés (ver Normas); las explicaciones, en español.
 
 ## Tecnología
